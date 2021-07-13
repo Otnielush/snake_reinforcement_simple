@@ -1,2 +1,2 @@
 # Snake reinforcement learning project
-[Watch the video](out.gif)
+![Watch the video](out.gif)
